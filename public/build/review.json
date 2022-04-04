@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "name": "Diane Wood",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 4,
+      "img": "https://randomuser.me/api/portraits/women/57.jpg"
+   
+    },
+    {
+      "id": "2",
+      "name": "Noelle Stewart",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 5,
+      "img": "https://randomuser.me/api/portraits/women/45.jpg"
+   
+    }
+    ,
+    {
+      "id": "3",
+      "name": "Duane Warren",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 3.5,
+      "img": "https://randomuser.me/api/portraits/men/95.jpg"
+   
+    }
+    
+    ,
+    {
+      "id": "4",
+      "name": "Emma Jensen",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 5,
+      "img": "https://randomuser.me/api/portraits/women/39.jpg"
+   
+    }
+    
+    ,
+    {
+      "id": "5",
+      "name": "Shphie Kennedy",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 4,
+      "img": "https://randomuser.me/api/portraits/women/24.jpg"
+   
+    }
+    
+    ,
+    {
+      "id": "6",
+      "name": "Alberto Williamson",
+      "review": "I gave up on MacBooks when Apple dropped the ports and MagSafe, when it   the Touch Bar and the butterfly keyboard, and single-handedly made #donglelife a thing. If you ask me, MacBooks lost their way a few years ago, and Apple lost me as a customer.",
+      "ratings": 4,
+      "img": "https://randomuser.me/api/portraits/men/50.jpg"
+   
+    }
+    
+    ]
