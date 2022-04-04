@@ -15,3 +15,16 @@
     
 
 }
+
+
+/* blog css  */
+.blog-div{
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    
+}
+.blog-div p{
+    font-size: 20px;
+    margin:10px 40px;
+    text-align: start;
+}
