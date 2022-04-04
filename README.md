@@ -1,7 +1,7 @@
 # apple-com-react website
 
 ## : Live Project Link : 
-### (https://apple-com-react.netlify.app/).
+## (https://apple-com-react.netlify.app/).
 
 ## Project Description : 
 
