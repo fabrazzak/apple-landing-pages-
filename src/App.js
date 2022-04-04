@@ -8,6 +8,7 @@ import Home from './Components/Home/Home';
 import Review from './Components/Review/Review';
 import NotFound from './NotFound';
 
+
 function App() {
   return (
     <div  className='App'>
@@ -21,7 +22,9 @@ function App() {
         <Route path='about' element={<About></About>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      
     </div>
+    
   );
 }
 
